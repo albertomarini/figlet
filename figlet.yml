@@ -8,4 +8,4 @@ functions:
     handler: ./figlet
     image: functions/figlet:0.1
     constraints:
-       - "type=rasp"
+       - "type=amazing"
